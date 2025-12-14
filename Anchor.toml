@@ -8,6 +8,9 @@ skip-lint = false
 [programs.localnet]
 yield_pilot = "Hp1uqW9SEVeZfgKzPUkjw1tmsQRpGNgydjXmF6cedry2"
 
+[programs.devnet]
+yield_pilot = "Hp1uqW9SEVeZfgKzPUkjw1tmsQRpGNgydjXmF6cedry2"
+
 [registry]
 url = "https://api.apr.dev"
 
